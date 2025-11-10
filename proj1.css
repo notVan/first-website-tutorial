@@ -1,0 +1,46 @@
+#diff{
+    color: gold;
+}
+#df{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.figure{
+    height: 50px;
+
+}
+
+#parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.top {
+    text-align: center;
+}
+
+input{
+    padding: 10px ;
+    width: 350px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 15px;
+    width: 350px;
+    margin-top: 15px;
+    border-radius: 6px;
+    border: #ccc;
+    background-color: orange;
+    color: whitesmoke;
+}
+
+#last {
+    text-align: center;
+}
